@@ -24,7 +24,7 @@ application to the ministry later must be in German.
 | Mentor may be over 25, need not be a student, must give practical support, **must be a GbR member**, and may take **at most 10 % of the total hours** | Julian ≤ 10 % — see hours in T6 | planned |
 | Team ≤ 4, GbR seated in Germany; **at most one person abroad** (one third of a team of three) | Helene (Copenhagen) is the one person abroad → Lukka and Julian must live in Germany | **TODO confirm Lukka's residence** |
 | Main contact = project lead, responsible for the formal application, **must be based in Germany** | Recommendation: **Lukka** as project lead (student-led track); Julian if Lukka is not in Germany | **decide** |
-| Employment at a research institute related to the project must be declared (Q 1a.4/5); employees need pro-rata time off, the work cannot happen alongside a full-time job | Julian works at a university: needs approval for ~6.5 h/week (secondary activity or pro-rata reduction) | **TODO with employer** |
+| Employment at a research institute related to the project must be declared (Q 1a.4/5) | Julian works at a university; no employer consent needed for the application itself — side-job notice (TV-L § 3 Abs. 4) to HR before June 2027 | **solved** |
 | Open-source licence, public repository, ≤ 1,900 h for a team at max. €50/h, ≥ 5 % own contribution | Plan: 1,730 h ≈ €86,500 | planned |
 | Topic focus of Innovation / Up and Coming: data security and **software infrastructure** | framed as research-and-teaching infrastructure (see P3/P4) | ok |
 
