@@ -115,7 +115,7 @@ Adapters connect the nodes a real course uses:
 - **Chat**: Matrix rooms per team.
 
 Every node is optional and replaceable. Tests run against containerised GitLab, JupyterHub and a
-small SLURM cluster. Licence: **TODO (MIT or BSD-3)**.
+small SLURM cluster. Licensed as MIT, as it is permissive, but dependent projects need not publish their source, unlike under GPL.
 
 ### P5 · Have you already worked on the idea? If so, briefly describe the current status and explain the planned new features. *(max. 100 words)*
 
